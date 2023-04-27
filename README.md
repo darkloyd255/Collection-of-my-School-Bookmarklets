@@ -15,6 +15,7 @@ Use discussions to ask questions and suggest hacks please!
 <summary><h1>Notices for Cursifier</h1></summary>
 1. Refreshing or closing the page WILL deactivate the program, you will need to reactivate it<br>
 2. This requires two inputs and is for messing around
+3. very buggy will fix later
 </details>
 <details>
 <summary><h1>Notices for HCK HERE</h1></summary>
