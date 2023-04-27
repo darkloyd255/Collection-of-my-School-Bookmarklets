@@ -7,16 +7,16 @@ Use discussions to ask questions and suggest hacks please!
 4. Follow the directions installed in it
 
 # How to get ALL of them installed
-1. Download the "ALL HACKS.html" file
+1. Download the "ALL HACKS.html" file<br>
 <deatails>
 <summary>2. Open bookmark manager</summary>
-a. Open a newtab
-b. Right click the "bookmarks bar"
-c. Click on "Bookmarks Manager"
+a. Open a newtab<br>
+b. Right click the "bookmarks bar"<br>
+c. Click on "Bookmarks Manager"<br>
 </deatails>
-3. Click on the 3 vertical dots in the top right corner
-4. select import
-5. import the all hacks file and your officially done :)
+3. Click on the 3 vertical dots in the top right corner<br>
+4. select import<br>
+5. import the all hacks file and your officially done :)<br>
 
 <details>
 <summary><h1>Notices for TeacherSaver2000</h1></summary>
