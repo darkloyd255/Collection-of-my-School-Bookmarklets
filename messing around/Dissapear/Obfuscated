@@ -1,0 +1,1 @@
+javascript:(function()%7Bconst elements %3D document.getElementsByTagName('*')%3B%0A%0Aconst interval %3D setInterval(() %3D> %7B%0A  const randomIndex %3D Math.floor(Math.random() * elements.length)%3B%0A  elements%5BrandomIndex%5D.style.display %3D 'none'%3B%0A%7D%2C 250)%3B%7D)()%3B
