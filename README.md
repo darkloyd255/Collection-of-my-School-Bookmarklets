@@ -1,10 +1,22 @@
 Use discussions to ask questions and suggest hacks please! 
 
-# How to setup all of these
+# How to set these up
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
 2. Make sure to add,"javaScript:" before the code
 3. Click the bookmark on the site you want to use it on
 4. Follow the directions installed in it
+
+# How to get ALL of them installed
+1. Download the "ALL HACKS.html" file
+<deatails>
+<summary>2. Open bookmark manager</summary>
+a. Open a newtab
+b. Right click the "bookmarks bar"
+c. Click on "Bookmarks Manager"
+</deatails>
+3. Click on the 3 vertical dots in the top right corner
+4. select import
+5. import the all hacks file and your officially done :)
 
 <details>
 <summary><h1>Notices for TeacherSaver2000</h1></summary>
