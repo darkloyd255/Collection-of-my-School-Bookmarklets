@@ -1,6 +1,6 @@
 Use discussions to ask questions and suggest hacks please! 
 
-# How to use any of these
+# How to setup all of these
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
 2. Make sure to add,"javaScript:" before the code
 3. Click the bookmark on the site you want to use it on
