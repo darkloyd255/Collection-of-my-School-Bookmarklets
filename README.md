@@ -2,7 +2,9 @@ Use discussions to ask questions and suggest hacks please!
 
 # About
 
-This project is something to pass the time. its also for kids who need this stuff, but basically i am making original bookmarklets that are meant to be used for: CHEATING, HACKING, BYPASSING & Random fun crap idk XD
+This project is something to pass the time. its also for kids who need this stuff, but basically i am making original bookmarklets that are meant to be used for: CHEATING, HACKING, BYPASSING & Random fun crap idk XD<br>
+ChatGPT helps bug-fix stuff, and also wrote some of these scripts.<br>
+The problem with ChatGPT is that its trained not to make this stuff, so i have to trick it into thinking im a teacher. but most of the time it fails to make a working script XD
 
 # To-do list
 
