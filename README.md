@@ -12,6 +12,7 @@ The problem with ChatGPT is that its trained not to make this stuff, so i have t
 - [ ] Add image importer for tab rename
 - [ ] Release modified versions of hacks only i have >:)
 - [ ] More Utilitites
+- [ ] Add a website
 
 # How to set these up
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
@@ -61,3 +62,4 @@ c. Click on "Bookmarks Manager"<br>
 2. this will not change the image<br>
 3. securly will see it as what you named it
 </details>
+
