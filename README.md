@@ -1,4 +1,10 @@
-Use discussions to ask questions and suggest hacks please! 
+Use discussions to ask questions and suggest hacks please!
+
+# To-do list
+
+- [ ] Add color selector for Edit ANYTHING
+- [ ] Add image importer for tab rename
+- [ ] Release modified versions of hacks only i have >:)
 
 # How to set these up
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
