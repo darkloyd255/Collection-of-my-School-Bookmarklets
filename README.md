@@ -43,6 +43,8 @@ c. Click on "Bookmarks Manager"<br>
 2. You can only edit text
 </details>
 <details>
-<summary><h1>Notices for ___</h1></summary>
-
+<summary><h1>Notices for Tab Renamer</h1></summary>
+1. Refreshing or closing the page WILL deactivate the program, you will need to reactivate it
+2. this will not change the image
+3. securly will see it as what you named it
 </details>
