@@ -45,6 +45,6 @@ c. Click on "Bookmarks Manager"<br>
 <details>
 <summary><h1>Notices for Tab Renamer</h1></summary>
 1. Refreshing or closing the page WILL deactivate the program, you will need to reactivate it<br>
-2. this will not change the image
+2. this will not change the image<br>
 3. securly will see it as what you named it
 </details>
