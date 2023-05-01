@@ -32,3 +32,17 @@ c. Click on "Bookmarks Manager"<br>
 1. Refreshing or closing the page WILL restore the page.<br>
 2. This hack will make the page unusable
 </details>
+<details>
+<summary><h1>Notices for Portabale calculator</h1></summary>
+1. Refreshing or closing the page WILL NOT deactivate the program.<br>
+2. this hack is in a new window and will NOT deactivate until you close that window OR refresh that window
+</details>
+<details>
+<summary><h1>Notices for Edit ANYTHING</h1></summary>
+1. Refreshing or closing the page WILL deactivate the hack, HOWEVER, going to a new page from that page WILL NOT.<br>
+2. You can only edit text
+</details>
+<details>
+<summary><h1>Notices for ___</h1></summary>
+
+</details>
