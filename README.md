@@ -1,5 +1,9 @@
 Use discussions to ask questions and suggest hacks please!
 
+# About
+
+This project is something to pass the time. its also for kids who need this stuff, but basically i am making original bookmarklets that are meant to be used for: CHEATING, HACKING, BYPASSING & Random fun crap idk XD
+
 # To-do list
 
 - [ ] Add color selector for Edit ANYTHING
