@@ -1,7 +1,8 @@
 Make sure to star this repo so I can rise to the top!<br>
 Make sure to watch it for updates on when i release new hacks! (almost everyday!)<br>
 Use discussions to ask questions and suggest hacks please!<br>
-I am already on the third page when searching, "School Bookmarklets"!
+I am already on the third page when searching, "School Bookmarklets"!<br>
+See bottom for information on how to become a contributor (editor who can add bookmarklets)
 # About
 
 This project is something to pass the time. its also for kids who need this stuff, but basically i am making original bookmarklets that are meant to be used for: CHEATING, HACKING, BYPASSING & Random fun crap idk XD<br>
