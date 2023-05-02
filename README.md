@@ -83,7 +83,7 @@ If you want to become a contributor, you MUST follow these rules:<br>
 If you want to become a contributor, you MUST meet these conditions:<br>
 <br>
 1. YOU MUST BE 12 OR OLDER<br>
-2. YOU MUST HAVE DECENT KNOLEDGE OF JAVASCRIPT, HTML, AND CSS OR SPECIALIZE IN AT LEAST ONE<br>
+2. YOU MUST HAVE DECENT KNOWLEDGE OF JAVASCRIPT, HTML, AND CSS OR SPECIALIZE IN AT LEAST ONE<br>
 3. YOU MUST SPEAK ENGLISH<br>
 4. YOU MUST PASS THE GOOGLE FORM WITH A DECENT SCORE<br>
 <br>
