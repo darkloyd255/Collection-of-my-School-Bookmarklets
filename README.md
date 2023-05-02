@@ -11,8 +11,9 @@ The problem with ChatGPT is that its trained not to make this stuff, so i have t
 - [ ] Add color selector for Edit ANYTHING
 - [ ] Add image importer for tab rename
 - [ ] Release modified versions of hacks only i have >:)
-- [ ] More Utilitites
+- [x] More Utilitites
 - [ ] Add a website
+- [ ] Repurpose repo to other school things along with bookmarklets
 
 # How to set these up
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
