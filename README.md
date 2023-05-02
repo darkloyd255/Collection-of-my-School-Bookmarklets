@@ -87,7 +87,8 @@ If you want to become a contributor, you MUST meet these conditions:<br>
 3. YOU MUST SPEAK ENGLISH<br>
 4. YOU MUST PASS THE GOOGLE FORM WITH A DECENT SCORE<br>
 <br>
-If you can follow these rules and meet these conditions you can become a contributor IF i say so! You can take the google form here: https://tinyurl.com/Github-Form<br>
+If you can follow these rules and meet these conditions you can become a contributor IF i say so! You can take the google form here:<br>
+https://tinyurl.com/Github-Form-2<br>
 <br>
 Happy Hacking,<br>
 -Darkloyd
