@@ -62,4 +62,9 @@ c. Click on "Bookmarks Manager"<br>
 2. this will not change the image<br>
 3. securly will see it as what you named it
 </details>
+<details>
+<summary><h1>Notices for Pin Text</h1></summary>
+1. Refreshing or closing the page WILL deactivate the program, you will need to reactivate it, it will also remove pinned text<br>
+2. you cannot pin headings and marquees
+</details>
 
