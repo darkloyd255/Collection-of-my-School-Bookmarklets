@@ -1,6 +1,7 @@
 # PLEASE READ ME
 
 Make sure to star this repo so I can rise to the top!<br>
+i cannot do unblockers, but if you get ahold of the html file for a webpage, you can use it without securly getting in the way sometimes<br>
 Make sure to watch it for updates on when i release new hacks! (almost everyday!)<br>
 Use discussions to ask questions and suggest hacks please!<br>
 I am already on the third page when searching, "School Bookmarklets"!<br>
