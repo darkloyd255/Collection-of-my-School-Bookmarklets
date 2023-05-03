@@ -89,7 +89,7 @@ c. Click on "Bookmarks Manager"<br>
 If you want to become a contributor, you MUST follow these rules:<br>
 <br>
 1. NO DELETING FILES WITHOUT PERMISION FROM DARKLOYD<br>
-2. NO IMPORTING BOOKMARKLETSS THAT ARENT MADE BY YOU OR ME<br>
+2. NO IMPORTING BOOKMARKLETS THAT ARENT MADE BY YOU OR ME<br>
 3. NO BEING MEAN TO ANYONE IN DISCUSSIONS<br>
 <br>
 If you want to become a contributor, you MUST meet these conditions:<br>
