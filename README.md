@@ -24,12 +24,20 @@ The problem with ChatGPT is that its trained not to make this stuff, so i have t
 
 # To-do list
 
+<h4>Will happen</h4>
+
+- [ ] Release modified versions of hacks only i have >:)
+
+<h4>Might happen</h4>
+
 - [ ] Add color selector for Edit ANYTHING
 - [ ] Add image importer for tab rename
-- [ ] Release modified versions of hacks only i have >:)
-- [x] More Utilitites
 - [ ] Add a website
 - [ ] Repurpose repo to other school things along with bookmarklets
+
+<h4>Happened</h4>
+
+- [x] More Utilitites
 
 # How to set these up
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
