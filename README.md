@@ -92,6 +92,12 @@ c. Click on "Bookmarks Manager"<br>
 1. Refreshing or closing the page WILL deactivate the program, you will need to reactivate it, it will also remove pinned text<br>
 2. you cannot pin headings and marquees
 </details>
+<details>
+<summary><h1>Notices for Teacher's Uno Reverse Card</h1></summary>
+1. refreshing or closing the page you ran the script on will deactivate it<br>
+2. this will refresh the page when it is reopened<br>
+3. changing the url of the page will also refresh it, but that is useless because if the site is blocked it will create a refresh loop
+</details>
 
 # Contributors
 
