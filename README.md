@@ -1,3 +1,7 @@
+# IMPORTANT NOTICES
+
+NONE of these bookmarklets will work on chrome://newtab
+
 # PLEASE READ ME
 
 Make sure to star this repo so I can rise to the top!<br>
