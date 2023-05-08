@@ -1,5 +1,4 @@
-<head>
-<script>
+
 document.title = prompt("Rename tab to...")
     // create the head element
 const head = document.createElement("head");
@@ -21,5 +20,3 @@ if (a < 0 || a > 2 || isNaN(a)) {
     link.href = pL[a];
     document.head.appendChild(link);
 }
-</script>
-</head>
