@@ -39,6 +39,7 @@ The problem with ChatGPT is that its trained not to make this stuff, so i have t
 - [ ] Repurpose repo to other school things along with bookmarklets
 
 <h4>Happened</h4>
+
 - [x] Add image importer for tab rename
 - [x] More Utilities
 
