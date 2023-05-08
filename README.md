@@ -47,7 +47,7 @@ The problem with ChatGPT is that its trained not to make this stuff, so i have t
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
 2. Make sure to add,"javaScript:" before the code
 3. Click the bookmark on the site you want to use it on
-4. Follow the directions installed in it
+4. Follow the directions in the "_HOW TO USE" file
 
 # How to get ALL of them installed
 1. Download the "ALL HACKS.html" file<br>
