@@ -35,13 +35,12 @@ The problem with ChatGPT is that its trained not to make this stuff, so i have t
 <h4>Might happen</h4>
 
 - [ ] Add color selector for Edit ANYTHING
-- [ ] Add image importer for tab rename
 - [ ] Add a website
 - [ ] Repurpose repo to other school things along with bookmarklets
 
 <h4>Happened</h4>
-
-- [x] More Utilitites
+- [x] Add image importer for tab rename
+- [x] More Utilities
 
 # How to set these up
 1. Copy paste  the file labeled "Obfuscated" into your bookmark
@@ -86,10 +85,9 @@ c. Click on "Bookmarks Manager"<br>
 2. You can only edit text
 </details>
 <details>
-<summary><h1>Notices for Tab Renamer</h1></summary>
+<summary><h1>Notices for Tab Display Customizer</h1></summary>
 1. Refreshing or closing the page WILL deactivate the program, you will need to reactivate it<br>
-2. this will not change the image<br>
-3. securly will see it as what you named it
+2. securly will see it as what you named it, as well as the image you set it to
 </details>
 <details>
 <summary><h1>Notices for Pin Text</h1></summary>
