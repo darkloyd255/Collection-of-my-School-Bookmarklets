@@ -31,7 +31,7 @@ The problem with ChatGPT is that its trained not to make this stuff, so i have t
 <h4>Will happen</h4>
 
 - [ ] Release modified versions of hacks only i have >:)
-
+- [ ] Release a securely by-passer (NOT A JOKE, WILL NOT BE LONG)
 <h4>Might happen</h4>
 
 - [ ] Add color selector for Edit ANYTHING
