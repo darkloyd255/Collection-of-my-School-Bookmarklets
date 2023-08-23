@@ -1,6 +1,6 @@
 # IMPORTANT NOTICES
 
-NONE of these bookmarklets will work on chrome://newtab<br>
+NONE of these bookmarklets will work on chrome://newtab <br>
 I don't work on this during the summer.
 
 # PLEASE READ ME
