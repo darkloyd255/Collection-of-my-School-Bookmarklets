@@ -1,3 +1,8 @@
+# OUTDATED PROJECT
+
+I can no longer work on this due to Securly adding a JavaScript disabler. If you try to run JavaScript even outside of a class, it will let your teacher know and it won't run.<br>
+Due to this, I can no longer work on anything but webpages and games, not bookmarklets. Sorry for everyone that used these...
+
 # IMPORTANT NOTICES
 
 NONE of these bookmarklets will work on chrome://newtab <br>
